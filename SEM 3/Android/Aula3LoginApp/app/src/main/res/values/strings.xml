@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula3LoginApp</string>
+    <string name="welcome_text">Bem-vindo, %1$s!</string>
+
+</resources>
